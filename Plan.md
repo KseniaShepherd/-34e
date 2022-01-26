@@ -19,7 +19,9 @@
 ### Интеграционное тестирование ###
 1. Проверка получения предопределённых ответов для заданной карты.
 2. Проверка корректности внесеной приложением информации в БД
- [Позитивные тестовые сценарии тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка ](https://docs.google.com/spreadsheets/d/1sPE7Q_vw4smlxDDRowgBlLDUSRefxo52edcDMPvJie4/edit#gid=0)
+
+[Позитивные тестовые сценарии тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка ](https://docs.google.com/spreadsheets/d/1sPE7Q_vw4smlxDDRowgBlLDUSRefxo52edcDMPvJie4/edit#gid=0)
+
  [Негативные тестовые сценарии тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка](https://docs.google.com/spreadsheets/d/1pfSHe2H_qhFZ-KRCTcEMpQMRNSGBf1ulUh0nQcKTHcw/edit?usp=sharing)
 
 
